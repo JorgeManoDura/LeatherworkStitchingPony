@@ -1,6 +1,6 @@
 # Leatherwork Stitching Pony
 
-Our comprehensive tutorial on building a leatherwork stitching pony includes detailed plans and 3D models created in SketchUp Pro 2022. 
+Our comprehensive tutorial on building a leatherwork stitching pony includes detailed plans and 3D models created in SketchUp Pro 2022(More formats yet to come). 
 Follow our step-by-step guide to create your own sturdy and adjustable stitching pony with ease.
 
 [(Preview 3D Model here - Imgur)](https://imgur.com/a/b7qlFD9)
