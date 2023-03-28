@@ -3,7 +3,7 @@
 This comprehensive tutorial on building a leatherwork stitching pony includes detailed plans and 3D models created in SketchUp Pro 2022 and exported to Blender and FBX formats. 
 Follow our step-by-step guide to create your own sturdy and adjustable stitching pony with ease.
 
-[(Preview 3D Model here - Imgur)](https://imgur.com/a/b7qlFD9)
+[(Preview 3D Model here - Imgur)](https://imgur.com/a/BsfBZrU)
 
 To use the 3D models provided in this Git, you can either: 
 
